@@ -11,13 +11,13 @@ This project is an interactive handwritten digit recognition app powered by a fi
 
 ### 2. Model Info
 - `Initial_MNIST.keras`: Base model trained on raw MNIST.
-- `Finetuned_MNIST.keras`: Refined using personal digit samples for better accuracy.
+- `Finetuned_MNIST.keras`: Fine-tuned using personal digit samples for better accuracy.
 
 ### 3. How to Use
 - Running the `main.py` file
 - A drawing canvas will appear. Draw your answer to the Zetamac question.
 Double-click the canvas to predict and automatically submit your answer.
-- You can watch the demo video included in the folder
+- You can watch the demo video included in the folder.
 
 ### 4. Dependencies
 Install all dependencies via:
